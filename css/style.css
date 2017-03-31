@@ -1,0 +1,187 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+.kalkhof{
+	border-radius:100%;
+	margin:20px;
+	transition: background-color 1s;
+}
+
+.kalkhof:hover{
+	background-color: white;
+
+
+}
+
+.frame{
+	width: 600px;
+	height:625px;
+	background-color: #ccccff;
+	padding-top: 15px;
+}
+
+.circle{
+	margin:auto;
+	padding:17px;
+}
+.sixteen{
+	background-color:red;
+}
+.fifteen{
+	background-color: yellow;
+}
+.fourteen{
+	background-color: blue;
+}
+.thirteen{
+	background-color: orange;
+}
+.twelve{
+	background-color: #e6ffe6;
+}
+.eleven{
+	background-color:#004d00;
+}
+.ten{
+	background-color:#e60000;
+}
+.nine{
+	background-color: #ffff1a;
+}
+.eight{
+	background-color:#00e6e6;
+}
+.seven{
+	background-color: #33cc33;
+}
+.six{
+	background-color: #ff99cc;
+}
+.five{
+	background-color:#b3ecff;
+}
+.four{
+	background-color: #ff3333;
+}
+.three{
+	background-color:  #ccffff;
+}
+.two{
+	background-color: #ffcc00;
+}
+.one{
+	background-color: #ffffcc;
+}
+
+.stella{
+	background-color: black;
+	transition: background-color 1s;
+	border: 1px solid white;
+	padding: 20px 15px 0px 15px;
+	float:left;
+}
+.stella:hover{
+	background-color: red;
+}
+.out1{
+	width: 415px;
+	height: 600px;
+}
+.out2{	
+	height: 579px;
+}
+.out3{
+	height: 558px;
+}
+.out4{
+	height: 537px;
+}
+.out5{
+	height: 516px;
+}
+.out6{
+	height: 495px;
+}
+.out7{
+	height: 474px;
+}
+.out8{
+	height: 453px;
+}
+.out9{
+	height: 432px;
+}
+.out10{
+	height: 411px;
+}
+.out11{
+	height: 390px;
+}
+.out12{
+	height: 369px;
+}
+.out13{
+	height: 348px;
+}
+.out14{
+	padding:0px;
+	margin:auto;
+	width:0px;
+	height:327px;
+}
+.newman{
+	background-color:DarkRed;
+	width: 600px;
+	height:315px;
+	clear:both;
+	transition: background-color 2s;
+}
+
+.newman2{
+	width: 35px;
+	border-right: 2px solid rgba(230, 115, 0, 0.6);
+
+	
+}
+.newman2:hover{
+	background-color:rgba(0,0,255,0.9);
+}
+.newman3{
+	width: 91px;
+	margin-left:38px;
+	border-right: 4px solid rgb(255, 255, 204);
+}
+.newman3:hover{
+	background-color:rgba(51, 0, 204,0.9);
+}
+
+.newman4{
+	width: 250px;
+	margin-left:91px;
+	border-right: 4px solid rgba(0, 0, 0, 0.6);
+	
+}
+.newman4:hover{
+	background-color:rgba(0, 153, 204,0.9);
+}
+.newman5{
+	width: 117px;
+	margin-left:250px;
+	border-right: 3px solid rgba(255, 0, 0, 0.3);
+	
+}
+.newman5:hover{
+	background-color:rgba(0, 122, 204,0.9);
+}
+.newman6{
+	width: 100px;
+	margin-left:118px;
+	border-right: 4px solid darkorange;
+	
+}
+.newman6:hover{
+	background-color:rgba(0, 100, 204,0.9);
+}
